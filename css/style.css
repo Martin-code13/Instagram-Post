@@ -1,0 +1,122 @@
+body {
+    background-color: black ;
+}
+
+.postal {
+    background-color: white;
+    margin: auto;
+    width:400px ;
+    height:600px;
+}
+
+
+.arriba { 
+
+    display: flex;
+    height: 50px;
+    width: 400px;
+
+
+    
+}
+
+
+.arriba1 {
+    height: 30px;
+    width: 50px;
+    padding-top: 20px;
+   
+}
+
+.fa-html5{
+
+    margin-left: 5px;
+}
+
+.arriba2{
+
+    height: 30px ;
+    width: 100px;
+    text-align: center;
+   
+    padding-top: 10px;
+    margin-right: 100px;
+
+
+}
+
+
+
+.arriba3 {
+    height: 30px;
+    width: 250px;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.fa-ellipsis-vertical{
+
+   
+    margin-bottom: 20px;
+}
+
+
+.medio {
+    width: 400px;
+    height: 350px;
+    background-color: pink;
+    background-image: url("https://ecotourism-world.com/wp-content/uploads/2021/04/luca-micheli-r9RW20TrQ0Y-unsplash-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abajo {
+    height: 5px;
+    width: 400px;
+    
+}
+
+.abajo1 {
+    height: 40px;
+    width: 400px;
+    
+
+
+}
+
+.fa-heart{
+
+    margin-left: 8px;
+}
+
+.fa-bookmark {
+   margin-left: 315px;
+   
+}
+
+.abajo2 {
+    height: 30px;
+    width: 300px;
+    margin-left: 10px;
+    
+
+}
+
+.abajo3 {
+    margin-top: 0px;
+    height: 120px;
+    width: 350px;
+    margin-left: 10px;
+}
+
+
+    
+
+
+
+
+
